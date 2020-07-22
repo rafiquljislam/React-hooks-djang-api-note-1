@@ -1,0 +1,18 @@
+.bhh{
+    height: 100vh !important;
+}
+.orange{
+    color: orange;
+}
+.purpul{
+    color: purple ;
+}
+.purpul:hover{
+    /* color:red; */
+    cursor: pointer;
+}
+.edicon{
+    cursor: pointer;
+    font-size: 30px;
+    padding: 10px;
+}
